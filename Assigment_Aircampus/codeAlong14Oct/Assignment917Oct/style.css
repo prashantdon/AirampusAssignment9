@@ -1,0 +1,155 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+.header{
+    position: fixed;
+    font-size: 5vh;
+    color:white;
+    background-color: rgb(180, 87, 87);
+    padding: 5vh;
+    display: flex;
+    height: 50px;
+    width: 100%;
+}
+.button1{
+    height: 10px;
+    width: px;
+    font-size: 25px;
+    background-color:rgb(180, 87, 87) ;
+    color: white;
+    border: none;
+    margin-right: 18px;
+}
+.header1{
+    font-size: 3vh;
+    position: fixed;
+    margin-left:85%;
+    
+    text-align: center;
+   
+}
+.header2{
+    /* height: 20vh; */
+    text-align: center;
+    font-size: 80px;
+    background-color: rgba(146, 2, 2, 0.67);
+    color: white;
+    padding: 20vh;
+}
+.header3{
+  
+    font-size: 25px;
+    text-align:center;
+    background-color:rgba(86, 43, 43, 0.03); 
+    color: white;
+    
+}
+.content{
+    display: flex;
+}
+.content1{
+    font-size: 3vh;
+    padding: 5%;
+    color:rgba(146, 2, 2, 0.67) ;
+    margin-left: 5vh;
+}
+.content2{
+   font-size: 25px;
+   color: black;
+}
+.button{
+    height: 35px;
+    width: 75px;
+    font-size: 17px;
+    background-color: rgba(146, 2, 2, 0.67) ;
+    color: white;
+    border: none;
+}
+.toggle{
+    position: fixed;
+    margin-left:%;
+    
+}
+.imgclass{
+    font-size:55px;
+    text-align: center;
+    background-color: rgba(146, 2, 2, 0.67) ;
+    padding: 10vh;
+    color: white;
+   
+    
+}
+.imgclass1{
+    font-size: 25px;
+    
+    
+}
+.imgclass2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgba(146, 2, 2, 0.67);
+    height: 600px;
+    width: 2030px;
+    font-size: 25px ;
+    color: white;
+    text-align: center;
+    
+}
+.img{
+    height: 70%;
+    width: 75%;
+    margin-left: vh;
+    margin-top: 3vh;
+    border: 1px solid white;
+    border-radius: 50%;
+    
+    
+}
+.imgclass3{
+    border: 1px solid rgb(120, 115, 115);
+    height: 400px;
+    margin-right: px;
+    margin-left:200px;
+}
+p{
+    font-size: 20px;
+}
+.imgclass4{
+    height: 10%;
+    width: 40%;
+    margin-left: 50px;
+    
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+.footer{
+    font-size: 50px;
+    padding: 10vh;
+    text-align: center;
+    color: rgba(146, 2, 2, 0.67);
+}
+.footer2{
+    font-size: 25px;
+    color: rgba(146, 2, 2, 0.67);
+    text-align: center;
+}
+.footer3{
+    display: flex;
+    margin-left: 25%;
+}
+.image{
+    height: 45%;
+    width: 55%;
+    
+}
+.p1{
+    font-size: 25px;
+    color: rgba(146, 2, 2, 0.67);
+}
+.footer4{
+    margin: 10%;
+}
